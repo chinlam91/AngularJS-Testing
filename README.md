@@ -5,6 +5,8 @@
 
 環境準備( [Karma ](http://karma-runner.github.io/0.12/intro/installation.html) , [Jasmine](http://jasmine.github.io/1.3/introduction.html))
 
+官方網站 https://docs.angularjs.org/guide/unit-testing
+
 
 ##Example
 這裡將會舉一個簡單的例子，主要是對Controller來做測試。
